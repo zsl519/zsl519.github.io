@@ -304,7 +304,7 @@ const achievementSection = {
 };
 
 // Blogs Section
-// zzbl
+
 
 const blogSection = {
   title: "Blogs",
